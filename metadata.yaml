@@ -1,0 +1,36 @@
+_repo: Biographia-Literaria_6081
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coleridge, Samuel Taylor
+    alias: Coleridge, S. T. (Samuel Taylor)
+    birthdate: 1772
+    deathdate: 1834
+    gutenberg_agent_id: '95'
+    url: http://www.gutenberg.org/2009/agents/95
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
+description: "Biographia Literaria, or in full Biographia Literaria; or Biographical\
+  \ Sketches of My Literary Life and Opinions, is an autobiography in discourse by\
+  \ Samuel Taylor Coleridge, which he published in 1817, in two volumes.\nIt has twenty-three\
+  \ (23) chapters.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6081'
+  wikidata: Q803863
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wordsworth, William, 1770-1850. Lyrical ballads'
+- !lcc 'PR'
+- !lcsh 'Poetry'
+- !lcsh 'Aesthetics'
+- !lcsh 'Criticism'
+- GITenberg
+title: Biographia Literaria
+url: http://www.gutenberg.org/ebooks/6081
+wikipedia:
+- https://en.wikipedia.org/wiki/Biographia_Literaria
+- https://hu.wikipedia.org/wiki/Biographia_Literaria
