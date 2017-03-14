@@ -1,5 +1,8 @@
 _repo: Biographia-Literaria_6081
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Coleridge, Samuel Taylor
@@ -13,6 +16,8 @@ description: "Biographia Literaria, or in full Biographia Literaria; or Biograph
   \ Sketches of My Literary Life and Opinions, is an autobiography in discourse by\
   \ Samuel Taylor Coleridge, which he published in 1817, in two volumes.\nIt has twenty-three\
   \ (23) chapters.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6081#Biographia-Literaria
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
